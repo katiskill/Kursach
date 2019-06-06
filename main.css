@@ -1,0 +1,94 @@
+.blueBackground{
+    background-color: rgb(66,89, 183);
+}
+.greyBackground{
+    background-color:rgb(181, 185, 189)
+}
+.navbar{
+    border-bottom: 2px solid antiquewhite;
+}
+.navbar-inner{
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+}
+.icon{
+    font-size: 30px;
+}
+.white{
+    color: antiquewhite;
+}
+.add{
+    background-color: white;
+    color: rgb(66,89, 183);
+}
+.module{
+    position: relative;
+    margin-top: 1vh;
+    height: 30px;
+    background-color: lightgray;
+    text-align: center;
+}
+.success{
+    background-color: rgb(38,169,67);
+}
+.moduleLink,.blueText,.category-title:hover{
+    color: rgb(66, 89, 183);
+}
+.form{
+    height: 80vh;
+}
+#checkLogin{
+    margin-left: 67px;
+}
+.headers{
+    padding-right: 40px;
+}
+#welcomeHeader{
+    padding-left: 140px;
+}
+#checkRegistration{
+    margin-left: 45px;
+}
+.disabled{
+    pointer-events: none;
+}
+.section{
+    width: 40vh;
+    height: 8vh;
+}
+#questionInQuiz{
+    right: 52.5vh;
+}
+.casesInQuiz,#theoryInQuiz{
+    text-align:left;
+}
+#theoryInQuiz,#questionInQuiz{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    min-height:10vh;
+    height: auto;
+}
+#buttonSupport{
+    position: relative;
+    margin-left: 44vh;
+}
+.category-title:hover{
+    cursor:pointer;
+}
+.list{
+    position: relative;
+    height:50vh;
+    list-style-type: none;
+}
+#progressHeader{
+    font-size: 50px;
+}
+.progressItem{
+    font-size:20px;
+}
+.colMessage{
+    min-height:10vh;
+    height:auto;
+}
+
